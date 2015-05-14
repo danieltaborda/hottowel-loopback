@@ -4,9 +4,7 @@ npm-debug.log
 node_modules
 downloaded
 docular_generated
-client/app/js/lb-services.js
-client/app/js/config.js
-client/app/index.html
+client/app/src/lb-services.js
 .idea/
 storage/
 .strong-pm
@@ -27,3 +25,4 @@ client/test/coverage
 server.iml
 phantomjsdriver.log
 report
+build
