@@ -1,6 +1,6 @@
 {
-  "name": "serverv2",
-  "version": "02.00.00",
+  "name": "HotTowel Example",
+  "version": "00.00.00",
   "main": "server/server.js",
   "engines": {
     "node": "0.12.x",
